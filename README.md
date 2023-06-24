@@ -1,5 +1,9 @@
 # GitHub Pages PWA
 
+Example of a [**PWA**](https://web.dev/progressive-web-apps/) hosted on **GitHub Pages**.
+
+> Inspired by [this](https://github.com/codepo8/dice-throw-simulator/).
+
 ## Manifest
 
 ```json
