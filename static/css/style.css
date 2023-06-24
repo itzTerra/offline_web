@@ -17,10 +17,3 @@ body {
     flex-direction: column;
 }
 
-#back-to-top-btn{
-    display: none;
-    position: fixed;
-    right: 20px;
-    bottom: 20px;
-    z-index: 200;
-}

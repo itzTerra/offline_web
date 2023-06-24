@@ -11,5 +11,12 @@
    
     "categories": [],
     "shortcuts": [],
-    "screenshots": []
+    "screenshots": [],
+    "icons": [
+        {
+          "src": "favicon.jpg",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+    ]
   }
