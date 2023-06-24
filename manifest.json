@@ -1,0 +1,17 @@
+{
+  "name": "Your Website",
+  "short_name": "Website",
+  "start_url": "/",
+  "display": "standalone",
+  "offline_page": "/index.html",
+  "icons": [
+    {
+      "src": "favicon.jpg",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "fallbacks": {
+    "/": "/index.html"
+  }
+}
