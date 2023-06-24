@@ -16,9 +16,7 @@ var CACHE_NAME = APP_PREFIX + VERSION
 // others to this list
 var URLS = [    
   `${GHPATH}/`,
-  `${GHPATH}/index.html`,
-  `${GHPATH}/static/css/styles.css`,
-  `${GHPATH}/static/js/script.js`
+  `${GHPATH}/index.html`
 ]
 
 self.addEventListener('fetch', function (e) {
