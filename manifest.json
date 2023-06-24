@@ -5,9 +5,9 @@
    
     "scope": "/offline_web/",
     "start_url": "/offline_web/",
-    "offline_page": "/index.html",
+    "offline_page": "/offline_web/",
     "fallbacks": {
-        "/": "/index.html"
+        "/": "/offline_web/"
     },
 
     "background_color": "#ffffff",
