@@ -6,9 +6,6 @@
     "dir": "ltr",
     "orientation": "portrait",
 
-    "scope": "/offline_web/",
-    "start_url": "/offline_web/",
-
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
    
