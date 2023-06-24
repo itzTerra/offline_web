@@ -5,6 +5,10 @@
    
     "scope": "/offline_web/",
     "start_url": "/offline_web/",
+    "offline_page": "/index.html",
+    "fallbacks": {
+        "/": "/index.html"
+    },
 
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
