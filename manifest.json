@@ -2,25 +2,24 @@
     "name": "Github Page PWA",
     "short_name": "GPPWA",
     "description": "Github Page as a Progressive Web App",
+    "display": "fullscreen", 
     "dir": "ltr",
-   
+    "orientation": "portrait",
+
     "scope": "/offline_web/",
     "start_url": "/offline_web/",
-    "offline_page": "/offline_web/",
-    "fallbacks": {
-        "/": "/offline_web/"
-    },
 
     "background_color": "#ffffff",
     "theme_color": "#ffffff",
    
-    "display": "standalone", 
-   
+    "categories": [],
+    "shortcuts": [],
+    "screenshots": [],
     "icons": [
         {
           "src": "/offline_web/favicon.jpg",
           "type": "image/png",
-          "sizes": "700x700"
+          "sizes": "512x512"
         }
     ]
   }
