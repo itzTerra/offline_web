@@ -2,6 +2,7 @@
     "name": "Github Page PWA",
     "short_name": "GPPWA",
     "description": "Github Page as a Progressive Web App",
+    "dir": "ltr",
    
     "scope": "/offline_web/",
     "start_url": "/offline_web/",
